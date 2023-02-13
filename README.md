@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🎓Computer Engineering
 [![Solved.ac
-dlaghldud](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlaghldud})](https://solved.ac/{dlaghldud})
 
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIMHOEYOUNG&show_icons=true&theme=swift)
 
